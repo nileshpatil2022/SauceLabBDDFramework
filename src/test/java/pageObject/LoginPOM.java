@@ -41,5 +41,23 @@ public class LoginPOM
 		clickOnLoginBtn.click();
 	}
 	
+	@FindBy(xpath="//div[@id='login_credentials']/child::h4")
+	private WebElement getTextFromLoginpage;
+	
+	public String getTextFromFromLoginpagee()
+	{
+		return getTextFromLoginpage.getText();
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 		
 }

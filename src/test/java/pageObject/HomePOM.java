@@ -44,8 +44,21 @@ public class HomePOM
 	}
 	
 	
+	@FindBy(xpath="//button[@id='react-burger-menu-btn']")
+	private WebElement mainIconclick;
 	
+	public void clickOnmainIcon()
+	{
+		mainIconclick.click();;
+	}
 	
+	@FindBy(xpath="//a[@id='logout_sidebar_link']")
+	private WebElement logoutLink;
+	
+	public void clickOnLogoutLink()
+	{
+		logoutLink.click();
+	}
 	
 	
 	

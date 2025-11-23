@@ -1,0 +1,215 @@
+[INFO ] 2025-11-23 18:31:37.619 [main] StepDef - setUp method executed
+[INFO ] 2025-11-23 18:31:37.674 [main] StepDef - Browser the launced
+[INFO ] 2025-11-23 18:31:39.883 [main] StepDef - opened the sauce lab application URL
+[INFO ] 2025-11-23 18:31:40.012 [main] StepDef - user entered the username
+[INFO ] 2025-11-23 18:31:40.072 [main] StepDef - user entered the password
+[INFO ] 2025-11-23 18:31:40.365 [main] StepDef - user clicked on login button
+[WARN ] 2025-11-23 18:31:40.409 [main] StepDef - Test passed: user is on home page
+[INFO ] 2025-11-23 18:31:40.474 [main] StepDef - user clicked on product link
+[INFO ] 2025-11-23 18:31:40.582 [main] StepDef - user clicked on notification icon
+[WARN ] 2025-11-23 18:31:40.617 [main] StepDef - Test passed: user is navigated to cart page
+[INFO ] 2025-11-23 18:39:07.488 [main] StepDef - setUp method executed
+[INFO ] 2025-11-23 18:39:07.531 [main] StepDef - Browser the launched
+[INFO ] 2025-11-23 18:39:09.030 [main] StepDef - opened the sauce lab application URL
+[INFO ] 2025-11-23 18:39:09.164 [main] StepDef - user entered the username
+[INFO ] 2025-11-23 18:39:09.237 [main] StepDef - user entered the password
+[INFO ] 2025-11-23 18:39:09.345 [main] StepDef - user clicked on login button
+[WARN ] 2025-11-23 18:39:09.376 [main] StepDef - Test passed: user is on home page
+[INFO ] 2025-11-23 18:39:09.452 [main] StepDef - user clicked on product link
+[INFO ] 2025-11-23 18:39:09.523 [main] StepDef - user clicked on notification icon
+[WARN ] 2025-11-23 18:39:09.544 [main] StepDef - Test passed: user is navigated to cart page
+[WARN ] 2025-11-23 18:39:09.565 [main] StepDef - Test passed: user is able to see selected product is added to cart page
+[INFO ] 2025-11-23 18:39:09.750 [main] StepDef - Browser is closed
+[INFO ] 2025-11-23 20:07:41.049 [main] StepDef - setUp method executed
+[INFO ] 2025-11-23 20:07:41.197 [main] StepDef - Browser the launched
+[INFO ] 2025-11-23 20:07:42.782 [main] StepDef - opened the sauce lab application URL
+[INFO ] 2025-11-23 20:07:42.935 [main] StepDef - user entered the username
+[INFO ] 2025-11-23 20:07:42.990 [main] StepDef - user entered the password
+[INFO ] 2025-11-23 20:07:43.266 [main] StepDef - user clicked on login button
+[WARN ] 2025-11-23 20:07:43.301 [main] StepDef - Test passed: user is on home page
+[INFO ] 2025-11-23 20:07:43.369 [main] StepDef - user clicked on product link
+[INFO ] 2025-11-23 20:07:43.439 [main] StepDef - user clicked on notification icon
+[WARN ] 2025-11-23 20:07:43.460 [main] StepDef - Test passed: user is navigated to cart page
+[WARN ] 2025-11-23 20:07:43.498 [main] StepDef - Test passed: user is able to see selected product is added to cart page
+[INFO ] 2025-11-23 20:07:43.655 [main] StepDef - Browser is closed
+[INFO ] 2025-11-23 20:08:32.250 [main] StepDef - setUp method executed
+[INFO ] 2025-11-23 20:08:32.475 [main] StepDef - Browser the launched
+[INFO ] 2025-11-23 20:08:35.123 [main] StepDef - opened the sauce lab application URL
+[INFO ] 2025-11-23 20:08:35.851 [main] StepDef - user entered the username
+[INFO ] 2025-11-23 20:08:35.969 [main] StepDef - user entered the password
+[INFO ] 2025-11-23 20:08:36.351 [main] StepDef - user clicked on login button
+[WARN ] 2025-11-23 20:08:36.545 [main] StepDef - Test passed: user is on home page
+[INFO ] 2025-11-23 20:08:36.608 [main] StepDef - user clicked on product link
+[INFO ] 2025-11-23 20:08:36.680 [main] StepDef - user clicked on notification icon
+[WARN ] 2025-11-23 20:08:36.693 [main] StepDef - Test passed: user is navigated to cart page
+[WARN ] 2025-11-23 20:08:36.706 [main] StepDef - Test passed: user is able to see selected product is added to cart page
+[INFO ] 2025-11-23 20:08:39.915 [main] StepDef - Browser is closed
+[INFO ] 2025-11-23 20:10:00.474 [main] StepDef - setUp method executed
+[INFO ] 2025-11-23 20:10:00.506 [main] StepDef - Browser the launched
+[INFO ] 2025-11-23 20:10:02.816 [main] StepDef - opened the sauce lab application URL
+[INFO ] 2025-11-23 20:10:02.906 [main] StepDef - user entered the username
+[INFO ] 2025-11-23 20:10:02.934 [main] StepDef - user entered the password
+[INFO ] 2025-11-23 20:10:03.036 [main] StepDef - user clicked on login button
+[WARN ] 2025-11-23 20:10:03.215 [main] StepDef - Test passed: user is on home page
+[INFO ] 2025-11-23 20:10:03.301 [main] StepDef - user clicked on product link
+[INFO ] 2025-11-23 20:10:03.394 [main] StepDef - user clicked on notification icon
+[WARN ] 2025-11-23 20:10:03.411 [main] StepDef - Test passed: user is navigated to cart page
+[WARN ] 2025-11-23 20:10:03.429 [main] StepDef - Test passed: user is able to see selected product is added to cart page
+[INFO ] 2025-11-23 20:10:06.072 [main] StepDef - Browser is closed
+[INFO ] 2025-11-23 20:13:21.931 [main] StepDef - setUp method executed
+[INFO ] 2025-11-23 20:13:21.962 [main] StepDef - Browser the launched
+[INFO ] 2025-11-23 20:13:23.988 [main] StepDef - opened the sauce lab application URL
+[INFO ] 2025-11-23 20:13:24.087 [main] StepDef - user entered the username
+[INFO ] 2025-11-23 20:13:24.122 [main] StepDef - user entered the password
+[INFO ] 2025-11-23 20:13:24.224 [main] StepDef - user clicked on login button
+[WARN ] 2025-11-23 20:13:24.245 [main] StepDef - Test passed: user is on home page
+[INFO ] 2025-11-23 20:13:24.315 [main] StepDef - user clicked on product link
+[INFO ] 2025-11-23 20:13:24.394 [main] StepDef - user clicked on notification icon
+[WARN ] 2025-11-23 20:13:24.408 [main] StepDef - Test passed: user is navigated to cart page
+[WARN ] 2025-11-23 20:13:24.422 [main] StepDef - Test passed: user is able to see selected product is added to cart page
+[INFO ] 2025-11-23 20:13:26.810 [main] StepDef - Browser is closed
+[INFO ] 2025-11-23 20:15:59.887 [main] StepDef - setUp method executed
+[INFO ] 2025-11-23 20:15:59.933 [main] StepDef - Browser the launched
+[INFO ] 2025-11-23 20:16:02.825 [main] StepDef - opened the sauce lab application URL
+[INFO ] 2025-11-23 20:16:02.914 [main] StepDef - user entered the username
+[INFO ] 2025-11-23 20:16:02.942 [main] StepDef - user entered the password
+[INFO ] 2025-11-23 20:16:03.037 [main] StepDef - user clicked on login button
+[WARN ] 2025-11-23 20:16:03.067 [main] StepDef - Test passed: user is on home page
+[INFO ] 2025-11-23 20:16:03.134 [main] StepDef - user clicked on product link
+[INFO ] 2025-11-23 20:16:03.205 [main] StepDef - user clicked on notification icon
+[WARN ] 2025-11-23 20:16:03.222 [main] StepDef - Test passed: user is navigated to cart page
+[WARN ] 2025-11-23 20:16:03.234 [main] StepDef - Test passed: user is able to see selected product is added to cart page
+[INFO ] 2025-11-23 20:16:06.603 [main] StepDef - Browser is closed
+[INFO ] 2025-11-23 20:17:53.073 [main] StepDef - setUp method executed
+[INFO ] 2025-11-23 20:17:53.128 [main] StepDef - Browser launched
+[INFO ] 2025-11-23 20:17:54.434 [main] StepDef - opened the sauce lab application URL
+[INFO ] 2025-11-23 20:17:54.562 [main] StepDef - user entered the username
+[INFO ] 2025-11-23 20:17:54.633 [main] StepDef - user entered the password
+[INFO ] 2025-11-23 20:17:55.136 [main] StepDef - user clicked on login button
+[WARN ] 2025-11-23 20:17:55.168 [main] StepDef - Test passed: user is on home page
+[INFO ] 2025-11-23 20:17:55.235 [main] StepDef - user clicked on product link
+[INFO ] 2025-11-23 20:17:55.313 [main] StepDef - user clicked on notification icon
+[WARN ] 2025-11-23 20:17:55.339 [main] StepDef - Test passed: user is navigated to cart page
+[WARN ] 2025-11-23 20:17:55.362 [main] StepDef - Test passed: user is able to see selected product is added to cart page
+[INFO ] 2025-11-23 20:17:55.494 [main] StepDef - Browser is closed
+[INFO ] 2025-11-23 20:18:50.969 [main] StepDef - setUp method executed
+[INFO ] 2025-11-23 20:18:51.022 [main] StepDef - Browser launched
+[INFO ] 2025-11-23 20:18:52.126 [main] StepDef - opened the sauce lab application URL
+[INFO ] 2025-11-23 20:18:52.240 [main] StepDef - user entered the username
+[INFO ] 2025-11-23 20:18:52.296 [main] StepDef - user entered the password
+[INFO ] 2025-11-23 20:18:52.400 [main] StepDef - user clicked on login button
+[WARN ] 2025-11-23 20:18:52.457 [main] StepDef - Test passed: user is on home page
+[INFO ] 2025-11-23 20:18:52.522 [main] StepDef - user clicked on product link
+[INFO ] 2025-11-23 20:18:52.588 [main] StepDef - user clicked on notification icon
+[WARN ] 2025-11-23 20:18:52.608 [main] StepDef - Test passed: user is navigated to cart page
+[WARN ] 2025-11-23 20:18:52.631 [main] StepDef - Test passed: user is able to see selected product is added to cart page
+[INFO ] 2025-11-23 20:18:52.831 [main] StepDef - Browser is closed
+[INFO ] 2025-11-23 20:19:11.946 [main] StepDef - setUp method executed
+[INFO ] 2025-11-23 20:19:11.994 [main] StepDef - Browser launched
+[INFO ] 2025-11-23 20:19:12.954 [main] StepDef - opened the sauce lab application URL
+[INFO ] 2025-11-23 20:19:13.063 [main] StepDef - user entered the username
+[INFO ] 2025-11-23 20:19:13.128 [main] StepDef - user entered the password
+[INFO ] 2025-11-23 20:19:13.230 [main] StepDef - user clicked on login button
+[WARN ] 2025-11-23 20:19:13.259 [main] StepDef - Test passed: user is on home page
+[INFO ] 2025-11-23 20:19:13.324 [main] StepDef - user clicked on product link
+[INFO ] 2025-11-23 20:19:13.396 [main] StepDef - user clicked on notification icon
+[WARN ] 2025-11-23 20:19:13.417 [main] StepDef - Test passed: user is navigated to cart page
+[WARN ] 2025-11-23 20:19:13.440 [main] StepDef - Test passed: user is able to see selected product is added to cart page
+[INFO ] 2025-11-23 20:19:13.688 [main] StepDef - Browser is closed
+[INFO ] 2025-11-23 20:23:34.579 [main] StepDef - setUp method executed
+[INFO ] 2025-11-23 20:23:34.596 [main] StepDef - Browser launched
+[INFO ] 2025-11-23 20:23:37.659 [main] StepDef - opened the sauce lab application URL
+[INFO ] 2025-11-23 20:23:37.746 [main] StepDef - user entered the username
+[INFO ] 2025-11-23 20:23:37.768 [main] StepDef - user entered the password
+[INFO ] 2025-11-23 20:23:37.874 [main] StepDef - user clicked on login button
+[WARN ] 2025-11-23 20:23:37.893 [main] StepDef - Test passed: user is on home page
+[INFO ] 2025-11-23 20:23:37.968 [main] StepDef - user clicked on product link
+[INFO ] 2025-11-23 20:23:38.045 [main] StepDef - user clicked on notification icon
+[WARN ] 2025-11-23 20:23:38.059 [main] StepDef - Test passed: user is navigated to cart page
+[WARN ] 2025-11-23 20:23:38.072 [main] StepDef - Test passed: user is able to see selected product is added to cart page
+[INFO ] 2025-11-23 20:23:40.125 [main] StepDef - Browser is closed
+[INFO ] 2025-11-23 20:28:06.496 [main] StepDef - setUp method executed
+[INFO ] 2025-11-23 20:28:06.522 [main] StepDef - Browser launched
+[INFO ] 2025-11-23 20:28:10.199 [main] StepDef - opened the sauce lab application URL
+[INFO ] 2025-11-23 20:28:10.292 [main] StepDef - user entered the username
+[INFO ] 2025-11-23 20:28:10.318 [main] StepDef - user entered the password
+[INFO ] 2025-11-23 20:28:10.412 [main] StepDef - user clicked on login button
+[WARN ] 2025-11-23 20:28:10.552 [main] StepDef - Test passed: user is on home page
+[INFO ] 2025-11-23 20:28:10.618 [main] StepDef - user clicked on product link
+[INFO ] 2025-11-23 20:28:10.694 [main] StepDef - user clicked on notification icon
+[WARN ] 2025-11-23 20:28:10.722 [main] StepDef - Test passed: user is navigated to cart page
+[WARN ] 2025-11-23 20:28:10.737 [main] StepDef - Test passed: user is able to see selected product is added to cart page
+[INFO ] 2025-11-23 20:35:41.919 [main] StepDef - setUp method executed
+[INFO ] 2025-11-23 20:35:41.944 [main] StepDef - Browser launched
+[INFO ] 2025-11-23 20:35:48.763 [main] StepDef - opened the sauce lab application URL
+[INFO ] 2025-11-23 20:35:50.603 [main] StepDef - user entered the username
+[INFO ] 2025-11-23 20:35:51.000 [main] StepDef - user entered the password
+[INFO ] 2025-11-23 20:35:51.817 [main] StepDef - user clicked on login button
+[INFO ] 2025-11-23 22:25:05.619 [main] StepDef - setUp method executed
+[INFO ] 2025-11-23 22:25:06.230 [main] StepDef - Browser launched
+[INFO ] 2025-11-23 22:25:13.076 [main] StepDef - opened the sauce lab application URL
+[INFO ] 2025-11-23 22:25:13.778 [main] StepDef - user entered the username
+[INFO ] 2025-11-23 22:25:14.063 [main] StepDef - user entered the password
+[INFO ] 2025-11-23 22:25:14.525 [main] StepDef - user clicked on login button
+[WARN ] 2025-11-23 22:25:14.710 [main] StepDef - Test passed: user is on home page
+[INFO ] 2025-11-23 22:25:18.145 [main] StepDef - Browser is closed
+[INFO ] 2025-11-23 22:54:56.241 [main] StepDef - setUp method executed
+[INFO ] 2025-11-23 22:54:56.512 [main] StepDef - Browser launched
+[INFO ] 2025-11-23 22:54:59.396 [main] StepDef - opened the sauce lab application URL
+[INFO ] 2025-11-23 22:55:00.022 [main] StepDef - user entered the username
+[INFO ] 2025-11-23 22:55:00.098 [main] StepDef - user entered the password
+[INFO ] 2025-11-23 22:55:00.292 [main] StepDef - user clicked on login button
+[WARN ] 2025-11-23 22:55:00.319 [main] StepDef - Test passed: user is on home page
+[INFO ] 2025-11-23 22:55:03.798 [main] StepDef - Browser is closed
+[INFO ] 2025-11-23 22:55:59.558 [main] StepDef - setUp method executed
+[INFO ] 2025-11-23 22:55:59.591 [main] StepDef - Browser launched
+[INFO ] 2025-11-23 22:56:02.064 [main] StepDef - opened the sauce lab application URL
+[INFO ] 2025-11-23 22:56:02.157 [main] StepDef - user entered the username
+[INFO ] 2025-11-23 22:56:02.182 [main] StepDef - user entered the password
+[INFO ] 2025-11-23 22:56:02.293 [main] StepDef - user clicked on login button
+[WARN ] 2025-11-23 22:56:02.331 [main] StepDef - Test passed: user is on home page
+[INFO ] 2025-11-23 22:56:04.872 [main] StepDef - Browser is closed
+[INFO ] 2025-11-23 22:57:32.802 [main] StepDef - setUp method executed
+[INFO ] 2025-11-23 22:57:32.835 [main] StepDef - Browser launched
+[INFO ] 2025-11-23 22:57:35.368 [main] StepDef - opened the sauce lab application URL
+[INFO ] 2025-11-23 22:57:35.456 [main] StepDef - user entered the username
+[INFO ] 2025-11-23 22:57:35.481 [main] StepDef - user entered the password
+[INFO ] 2025-11-23 22:57:35.576 [main] StepDef - user clicked on login button
+[WARN ] 2025-11-23 22:57:36.085 [main] StepDef - Test passed: user is on home page
+[INFO ] 2025-11-23 22:57:38.435 [main] StepDef - Browser is closed
+[INFO ] 2025-11-23 23:08:34.564 [main] StepDef - setUp method executed
+[INFO ] 2025-11-23 23:08:35.205 [main] StepDef - Browser launched
+[INFO ] 2025-11-23 23:08:38.894 [main] StepDef - opened the sauce lab application URL
+[INFO ] 2025-11-23 23:08:38.976 [main] StepDef - user entered the username
+[INFO ] 2025-11-23 23:08:39.006 [main] StepDef - user entered the password
+[INFO ] 2025-11-23 23:08:39.302 [main] StepDef - user clicked on login button
+[WARN ] 2025-11-23 23:08:39.348 [main] StepDef - Test passed: user is on home page
+[INFO ] 2025-11-23 23:08:39.779 [main] StepDef - user clicked on main icon
+[INFO ] 2025-11-23 23:09:52.626 [main] StepDef - setUp method executed
+[INFO ] 2025-11-23 23:09:52.677 [main] StepDef - Browser launched
+[INFO ] 2025-11-23 23:09:58.806 [main] StepDef - opened the sauce lab application URL
+[INFO ] 2025-11-23 23:09:58.887 [main] StepDef - user entered the username
+[INFO ] 2025-11-23 23:09:58.910 [main] StepDef - user entered the password
+[INFO ] 2025-11-23 23:09:59.026 [main] StepDef - user clicked on login button
+[WARN ] 2025-11-23 23:09:59.131 [main] StepDef - Test passed: user is on home page
+[INFO ] 2025-11-23 23:09:59.299 [main] StepDef - user clicked on main icon
+[INFO ] 2025-11-23 23:10:44.798 [main] StepDef - setUp method executed
+[INFO ] 2025-11-23 23:10:44.827 [main] StepDef - Browser launched
+[INFO ] 2025-11-23 23:10:50.322 [main] StepDef - opened the sauce lab application URL
+[INFO ] 2025-11-23 23:10:50.408 [main] StepDef - user entered the username
+[INFO ] 2025-11-23 23:10:50.431 [main] StepDef - user entered the password
+[INFO ] 2025-11-23 23:10:50.857 [main] StepDef - user clicked on login button
+[WARN ] 2025-11-23 23:10:50.875 [main] StepDef - Test passed: user is on home page
+[INFO ] 2025-11-23 23:10:51.505 [main] StepDef - user clicked on main icon
+[INFO ] 2025-11-23 23:10:51.623 [main] StepDef - user clicked on logout button
+[WARN ] 2025-11-23 23:10:51.637 [main] StepDef - Test passed: user is navigate to login page
+[INFO ] 2025-11-23 23:11:36.771 [main] StepDef - setUp method executed
+[INFO ] 2025-11-23 23:11:37.280 [main] StepDef - Browser launched
+[INFO ] 2025-11-23 23:11:40.368 [main] StepDef - opened the sauce lab application URL
+[INFO ] 2025-11-23 23:11:40.517 [main] StepDef - user entered the username
+[INFO ] 2025-11-23 23:11:40.554 [main] StepDef - user entered the password
+[INFO ] 2025-11-23 23:11:40.676 [main] StepDef - user clicked on login button
+[WARN ] 2025-11-23 23:11:40.993 [main] StepDef - Test passed: user is on home page
+[INFO ] 2025-11-23 23:11:41.074 [main] StepDef - user clicked on main icon
+[INFO ] 2025-11-23 23:11:41.147 [main] StepDef - user clicked on logout button
+[WARN ] 2025-11-23 23:11:41.166 [main] StepDef - Test passed: user is navigate to login page

@@ -1,6 +1,6 @@
 Feature: Login 
 
-
+@Sanity
 Scenario: Successful Login with Valid Credentials 
     Given User Launch Chrome browser 
 	When User opens URL "https://www.saucedemo.com/" 

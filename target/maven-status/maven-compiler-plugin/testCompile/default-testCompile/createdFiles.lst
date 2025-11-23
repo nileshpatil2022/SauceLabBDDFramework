@@ -1,5 +1,7 @@
+pageObject\HomePOM.class
+stepDefinition\BaseClass.class
+pageObject\AddToCartPOM.class
 tesRunner\TestRunner.class
 pageObject\LoginPOM.class
 stepDefinition\StepDef.class
-pageObject\HomePOM.class
-pageObject\AddToCartPOM.class
+utilities\ReadConfig.class

@@ -257,6 +257,6 @@ public class StepDef extends BaseClass
 			FileHandler.copy(souceFile, location);
 		}
 			
-		//driver.quit();
+		driver.quit();
 	}
 }

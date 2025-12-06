@@ -1,17 +1,17 @@
-package tesRunner;
+package testRunner;
 
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
-		features = {".//Feature//Login.feature"},
+		features = {".//Feature//CompleteOrder.feature"},
 		glue={"stepDefinition"},
 		dryRun = false,
 		monochrome = true,
-		tags = "@Sanity",//scenarios under @sanity tag will be executed
+		tags = "@Functional",//scenarios under @sanity tag will be executed
 		plugin = {"pretty","html:target/cucumber-reports.html"}
 		
-		
+		//plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"}
 		)
 
 

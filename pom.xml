@@ -140,8 +140,13 @@
 			<artifactId>cucumber-testng</artifactId>
 			<version>7.3.4</version>
 		</dependency>
-		<!--
-		https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-surefire-plugin -->
+
+		<dependency>
+			<groupId>tech.grasshopper</groupId>
+			<artifactId>extentreports-cucumber7-adapter</artifactId>
+			<version>1.14.0</version>
+		</dependency>
+
 
 	</dependencies>
 	<build>

@@ -49,15 +49,5 @@ public class LoginPOM
 		return getTextFromLoginpage.getText();
 	}
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 		
 }

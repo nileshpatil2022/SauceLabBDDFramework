@@ -36,4 +36,15 @@ public class AddToCartPOM {
 		
 		
 		
+		//checkout button
+		@FindBy(xpath="//button[@class='btn btn_action btn_medium checkout_button ']")
+		private WebElement checkOutBtn;
+		
+		public void clickOncheckOutBtn()
+		{
+			checkOutBtn.click();
+		}
+		
+		
+		
 }
